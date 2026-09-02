@@ -12,4 +12,88 @@
             <density>560</density>
         </density>
     </densityMapping>
+    <screenBrightnessMap>
+        <point>
+            <value>0.0</value>
+            <nits>2</nits>
+        </point>
+        <point>
+            <value>0.0255</value>
+            <nits>10.6</nits>
+        </point>
+        <point>
+            <value>0.0804</value>
+            <nits>41.5</nits>
+        </point>
+        <point>
+            <value>0.2216</value>
+            <nits>149.7</nits>
+        </point>
+        <point>
+            <value>0.3569</value>
+            <nits>276.5</nits>
+        </point>
+        <point>
+            <value>0.4059</value>
+            <nits>326.5</nits>
+        </point>
+        <point>
+            <value>0.4255</value>
+            <nits>346</nits>
+        </point>
+        <point>
+            <value>0.4451</value>
+            <nits>386.7</nits>
+        </point>
+        <point>
+            <value>0.4804</value>
+            <nits>459.3</nits>
+        </point>
+        <point>
+            <value>0.5</value>
+            <nits>500</nits> <!-- Maximum non-HBM brightness nits -->
+        </point>
+        <point>
+            <value>0.5373</value>
+            <nits>540.4</nits>
+        </point>
+        <point>
+            <value>0.6039</value>
+            <nits>606.8</nits>
+        </point>
+        <point>
+            <value>1.0</value>
+            <nits>1000</nits>
+        </point>
+    </screenBrightnessMap>
+    <highBrightnessMode enabled="true">
+        <transitionPoint>0.5</transitionPoint>
+        <minimumLux>3000</minimumLux>
+        <timing>
+            <timeWindowSecs>0</timeWindowSecs> // Window in which we restrict HBM.
+            <timeMaxSecs>0</timeMaxSecs>        // Maximum time of HBM allowed in that window.
+            <timeMinSecs>0</timeMinSecs>         // Minimum time remaining required to switch
+        </timing>                                 //   HBM on for.
+    </highBrightnessMode>
+
+    <autoBrightness enabled="true">
+        <brighteningLightDebounceMillis>4000</brighteningLightDebounceMillis>
+        <darkeningLightDebounceMillis>8000</darkeningLightDebounceMillis>
+        <brighteningLightDebounceIdleMillis>4000</brighteningLightDebounceIdleMillis>
+        <darkeningLightDebounceIdleMillis>8000</darkeningLightDebounceIdleMillis>
+    </autoBrightness>
+
+    <hdrBrightnessConfig>
+        <brightnessMap>
+        </brightnessMap>
+        <brightnessIncreaseDebounceMillis>0</brightnessIncreaseDebounceMillis>
+        <screenBrightnessRampIncrease>-1.0</screenBrightnessRampIncrease>
+        <brightnessDecreaseDebounceMillis>0</brightnessDecreaseDebounceMillis>
+        <screenBrightnessRampDecrease>-1.0</screenBrightnessRampDecrease>
+    </hdrBrightnessConfig>
+
+    <lightSensor>
+        <type>com.samsung.sensor.autobrightness</type>
+        <name>TMD4907 Light</name>
+    </lightSensor>
 </displayConfiguration>
