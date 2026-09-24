@@ -4873,8 +4873,8 @@
 
 	<!-- Communication playback volume -->
 	<path name="gain-communication-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="10" />
+		<ctl name="Left Digital PCM Volume" value="761" />
 	</path>
 
 	<path name="gain-communication-speaker">
@@ -4928,8 +4928,8 @@
 
 	<!-- samsung voip fmc playback volume -->
 	<path name="gain-samsung_voip_fmc-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="13" />
+		<ctl name="Left Digital PCM Volume" value="761" />
 	</path>
 
 	<path name="gain-samsung_voip_fmc-speaker">
@@ -4963,8 +4963,8 @@
 	</path>
 
 	<path name="gain-voip-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="10" />
+		<ctl name="Left Digital PCM Volume" value="761" />
 	</path>
 
     <path name="gain-voip-speaker">
@@ -5001,8 +5001,8 @@
 
 	<!-- wificall nb playback volume -->
 	<path name="gain-wificall_nb-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="13" />
+		<ctl name="Left Digital PCM Volume" value="761" />
 	</path>
 
 	<path name="gain-wificall_nb-speaker">
@@ -5037,8 +5037,8 @@
 
 	<!-- wificall wb playback volume -->
 	<path name="gain-wificall_wb-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="13" />
+		<ctl name="Left Digital PCM Volume" value="761" />
 	</path>
 
 	<path name="gain-wificall_wb-speaker">
@@ -5073,8 +5073,8 @@
 
 	<!-- wificall evs playback volume -->
 	<path name="gain-wificall_evs-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="15" />
+		<ctl name="Left Digital PCM Volume" value="761" />
 	</path>
 
 	<path name="gain-wificall_evs-speaker">
@@ -5109,8 +5109,8 @@
 
 	<!-- Video call playback volume -->
 	<path name="gain-video_call-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="13" />
+		<ctl name="Left Digital PCM Volume" value="761" />
 	</path>
 
 	<path name="gain-video_call-speaker">
@@ -5146,8 +5146,8 @@
 	<!-- CP Call Output volume -->
 	<!-- NB volume -->
 	<path name="gain-incall_nb-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="13" />
+		<ctl name="Left Digital PCM Volume" value="761" />
 	</path>
 
 	<path name="gain-incall_nb-speaker">
@@ -5188,8 +5188,8 @@
 
 	<!-- WB volume -->
 	<path name="gain-incall_wb-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="13" />
+		<ctl name="Left Digital PCM Volume" value="761" />
 	</path>
 
 	<path name="gain-incall_wb-speaker">
@@ -5230,8 +5230,8 @@
 
 	<!-- VoLTE CP NB playback volume -->
 	<path name="gain-volte_cp_nb-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="13" />
+		<ctl name="Left Digital PCM Volume" value="761" />
 	</path>
 
 	<path name="gain-volte_cp_nb-speaker">
@@ -5272,8 +5272,8 @@
 
 	<!-- VoLTE CP WB playback volume -->
 	<path name="gain-volte_cp_wb-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="13" />
+		<ctl name="Left Digital PCM Volume" value="761" />
 	</path>
 
 	<path name="gain-volte_cp_wb-speaker">
@@ -5314,8 +5314,8 @@
 
 	<!-- EVS volume -->
 	<path name="gain-volte_cp_evs-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="15" />
+		<ctl name="Left Digital PCM Volume" value="761" />
 	</path>
 
 	<path name="gain-volte_cp_evs-speaker">
@@ -5356,8 +5356,8 @@
 
 	<!-- VoLTE VT CP NB playback volume -->
 	<path name="gain-volte_vt_cp_nb-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="13" />
+		<ctl name="Left Digital PCM Volume" value="761" />
 	</path>
 
 	<path name="gain-volte_vt_cp_nb-speaker">
@@ -5398,8 +5398,8 @@
 
 	<!-- VoLTE VT CP WB playback volume -->
 	<path name="gain-volte_vt_cp_wb-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="13" />
+		<ctl name="Left Digital PCM Volume" value="761" />
 	</path>
 
 	<path name="gain-volte_vt_cp_wb-speaker">
@@ -5440,8 +5440,8 @@
 
 	<!-- EVS VT volume -->
 	<path name="gain-volte_vt_cp_evs-handset">
-		<ctl name="Left AMP PCM Gain" value="4" />
-		<ctl name="Left Digital PCM Volume" value="789" />
+		<ctl name="Left AMP PCM Gain" value="15" />
+		<ctl name="Left Digital PCM Volume" value="761" />
 	</path>
 
 	<path name="gain-volte_vt_cp_evs-speaker">
@@ -5705,9 +5705,9 @@
 		<ctl name="VTS DMIC GAIN MODE0" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE1" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE2" value="6168" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="24" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="24" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="24" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="32" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="32" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="32" />
 	</path>
 
 	<!-- bargein samsung input volume -->
@@ -5726,8 +5726,8 @@
 
 	<!-- bargein external input volume-->
 	<path name="gain-bargein_external_engine-mic">
-		<ctl name="VTS DMIC GAIN MODE0" value="2570" />
-		<ctl name="VTS DMIC GAIN MODE1" value="7710" />
+		<ctl name="VTS DMIC GAIN MODE0" value="7710" />
+		<ctl name="VTS DMIC GAIN MODE1" value="3084" />
 		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="22" />
 		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="8" />
 	</path>
@@ -5741,7 +5741,7 @@
 	<!-- svoice/carmode samsung input volume -->
 	<path name="gain-dualmic_samsung_engine-mic">
 		<ctl name="VTS DMIC GAIN MODE0" value="5140" />
-		<ctl name="VTS DMIC GAIN MODE1" value="6682" />
+		<ctl name="VTS DMIC GAIN MODE1" value="4873" />
 		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="32" />
 		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="32" />
 	</path>
@@ -5771,36 +5771,36 @@
 		<ctl name="VTS DMIC GAIN MODE0" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE1" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE2" value="6168" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="26" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="26" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="26" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="18" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="18" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="18" />
 	</path>
 
 	<path name="gain-communication-speaker-mic">
 		<ctl name="VTS DMIC GAIN MODE0" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE1" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE2" value="6168" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="8" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="8" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="8" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="10" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="10" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="10" />
 	</path>
 
 	<path name="gain-communication-dual-speaker-mic">
 		<ctl name="VTS DMIC GAIN MODE0" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE1" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE2" value="6168" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="8" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="8" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="8" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="10" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="10" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="10" />
 	</path>
 
 	<path name="gain-communication-gaming-dual-speaker-mic">
 		<ctl name="VTS DMIC GAIN MODE0" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE1" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE2" value="6168" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="8" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="8" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="8" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="10" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="10" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="10" />
 	</path>
 
 	<path name="gain-communication-dex-speaker-mic">
@@ -5843,9 +5843,9 @@
 		<ctl name="VTS DMIC GAIN MODE0" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE1" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE2" value="6168" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="19" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="19" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="19" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="18" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="18" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="18" />
 	</path>
 
 	<path name="gain-communication-bt-sco-headset-in">
@@ -5932,27 +5932,27 @@
 		<ctl name="VTS DMIC GAIN MODE0" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE1" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE2" value="6168" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="26" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="26" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="26" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="18" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="18" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="18" />
 	</path>
 
 	<path name="gain-voip-speaker-mic">
 		<ctl name="VTS DMIC GAIN MODE0" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE1" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE2" value="6168" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="8" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="8" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="8" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="10" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="10" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="10" />
 	</path>
 
 	<path name="gain-voip-dual-speaker-mic">
 		<ctl name="VTS DMIC GAIN MODE0" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE1" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE2" value="6168" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="8" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="8" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="8" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="10" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="10" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="10" />
 	</path>
 
 	<path name="gain-voip-dex-speaker-mic">
@@ -6969,9 +6969,9 @@
 	</path>
 
 	<path name="gain-echo_test-dual-speaker">
-		<ctl name="Left AMP PCM Gain" value="18" />
+		<ctl name="Left AMP PCM Gain" value="20" />
 		<ctl name="Left Digital PCM Volume" value="817" />
-		<ctl name="Right AMP PCM Gain" value="18" />
+		<ctl name="Right AMP PCM Gain" value="20" />
 		<ctl name="Right Digital PCM Volume" value="817" />
 	</path>
 
@@ -7011,7 +7011,7 @@
 	<!-- Packet Loopback Input -->
 	<path name="gain-loopback_packet-mic">
 		<ctl name="VTS DMIC GAIN MODE0" value="6168" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="25" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="27" />
 	</path>
 
 	<path name="gain-loopback_packet-2nd-mic">
@@ -7021,7 +7021,7 @@
 
 	<path name="gain-loopback_packet-3rd-mic">
 		<ctl name="VTS DMIC GAIN MODE2" value="6168" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="15" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="12" />
 	</path>
 
 	<path name="gain-loopback_packet-dualmic">
@@ -7086,12 +7086,12 @@
 	<!-- echo(rms) test input volume -->
 	<path name="gain-echo_test-mic">
 		<ctl name="VTS DMIC GAIN MODE0" value="5911" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="12" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="18" />
 	</path>
 
 	<path name="gain-echo_test-2nd-mic">
 		<ctl name="VTS DMIC GAIN MODE1" value="5911" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="11" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="9" />
 	</path>
 
 	<path name="gain-echo_test-3rd-mic">
@@ -7101,18 +7101,18 @@
 
 	<path name="gain-echo_test-dualmic">
 		<ctl name="VTS DMIC GAIN MODE0" value="6168" />
-		<ctl name="VTS DMIC GAIN MODE1" value="5911" />
+		<ctl name="VTS DMIC GAIN MODE1" value="6168" />
 		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="34" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="8" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="17" />
 	</path>
 
 	<path name="gain-echo_test-multi-mic">
 		<ctl name="VTS DMIC GAIN MODE0" value="6168" />
-		<ctl name="VTS DMIC GAIN MODE1" value="5911" />
+		<ctl name="VTS DMIC GAIN MODE1" value="6168" />
 		<ctl name="VTS DMIC GAIN MODE2" value="6168" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="34" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="8" />
-		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="25" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN0" value="24" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN1" value="34" />
+		<ctl name="VTS CONTROL DMIC AUD GAIN2" value="24" />
 	</path>
 
 	<path name="gain-echo_thd_test-mic">
